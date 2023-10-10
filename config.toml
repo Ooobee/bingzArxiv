@@ -1,4 +1,4 @@
-site_title = "MyArxiv"
+site_title = "bingzArxiv"
 limit_days = 15
 cache_url = "https://ooobee.github.io/bingzArxiv/cache.json"
 
