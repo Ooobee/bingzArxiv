@@ -1,8 +1,8 @@
-let titles_type = ["Dataset", "Review", "Overview", " Obstructive Sleep Apnea"];
+let titles_type = ["Dataset", "Review", "Overview", "Obstructive Sleep Apnea", "sleep", "snore", "vowel"];
 let titles_model = ["BERT", "GPT", "Transformer"];
-let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "Classification"];
+let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "Classification", "Detection", "Recognition"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Li Xiao"];
+let authors_array = ["Li Xiao", "Gong Yuan"];
 
 let conferences = [
     "ICASSP", "INTERSPEECH",
