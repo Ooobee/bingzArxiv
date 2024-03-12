@@ -1,6 +1,6 @@
-let titles_type = ["Dataset", "Review", "Overview", "Obstructive Sleep Apnea", "sleep", "snore", "vowel"];
+let titles_type = ["Dataset", "Review", "Overview", "Obstructive Sleep Apnea", "sleep", "snore", "vowel", "Representations"];
 let titles_model = ["BERT", "GPT", "Transformer"];
-let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "Classification", "Detection", "Recognition"];
+let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "Classification", "Detection", "Recognition", "Diffusion"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Li Xiao", "Gong Yuan", "Demin Han"];
 
@@ -8,7 +8,8 @@ let conferences = [
     "ICASSP", "INTERSPEECH",
     "ICLR", "NeurIPS", "NIPS", "ICML", 
     "ACL", "EMNLP", "NAACL",
-    "AAAI", "IJCAI", "ACM MM"
+    "AAAI", "IJCAI", "ACM MM",
+    "CVPR", "ECCV", "ICCV", "ICME"
     // AI
     // "AAAI", "AAMAS", "ACM MM", "AISTATS", "ALT", "CEC", "ECAI", "FUZZ IEEE", "GECCO", "ICANN", "ICAPS", "ICCBR", "ICONIP", "ICRA", "ICTAI", "IJCAI", "IJCNN", "IROS", "KR", "KSEM", "SIGGRAPH", "STOC", "UAI", "PPSN", "PRICAI", "TAAI",
     // CV
