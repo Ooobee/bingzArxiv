@@ -1,5 +1,5 @@
-let titles_type = ["Dataset", "Review", "Overview", "Obstructive Sleep Apnea", "sleep", "snore", "vowel", "Representations"];
-let titles_model = ["BERT", "GPT", "Transformer"];
+let titles_type = ["Dataset", "Review", "Overview", "Obstructive Sleep Apnea", "sleep", "snore", "vowel", "Representations", "medical", "enhance"];
+let titles_model = ["BERT", "Transformer", "Attention"];
 let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "Classification", "Detection", "Recognition", "Diffusion"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Li Xiao", "Gong Yuan", "Demin Han"];
