@@ -1,4 +1,4 @@
-let titles_type = ["Dataset", "Review", "Overview", "Obstructive Sleep Apnea", "sleep", "snore", "vowel", "Representations", "medical", "enhance"];
+let titles_type = ["Dataset", "Review", "Overview", "Obstructive Sleep Apnea", "sleep", "snore", "vowel", "Representations", "medical", "enhance", "few-shot"];
 let titles_model = ["BERT", "Transformer", "Attention"];
 let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "Classification", "Detection", "Recognition", "Diffusion"];
 let titles =  titles_model + titles_method + titles_type;
